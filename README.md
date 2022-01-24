@@ -1,8 +1,6 @@
 - 👋 Cześć, Jestem @adrianWadrzyk
-- 👀 Interesuje się programowaniem oraz zarządzaniem/prowadzeniem zespołu. Podjąłem w tym kierunku studia informatyczne o 
-      specjalizacji programowanie w ramach, której realizuję przedmioty ściśle związane z wytwarzaniem oraz zarządzaniem oprogramowaniem.
-- 🌱 Aktualnie uczę się Reacta oraz TypeScripta a także dodatkowo SCRUM'a.
-- 💞️ Chętnie podejmę współpracę jako programista Junior fronend, backend, fullstack lub jako Project Manager. 
+- 👀 Interesuje się programowaniem. Aktualnie zdobywam doświadczenie jako junior fullstack developer (javascript, PHP, SMARTY oraz twig).
+- 🌱 Aktualnie uczę się Reacta oraz rozwijam swoją wiedzę z zakresu PHP.
 - 📫 W razie pytań zapraszam do kontaktu przez email adrian.wadrzyk.contact@gmail.com
 
 <!---
